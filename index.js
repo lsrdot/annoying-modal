@@ -31,7 +31,7 @@ consentForm.addEventListener('submit', function (e) {
 
     setTimeout(function () {
         document.getElementById('upload-text').innerText = `
-        Saling your data...`
+        Selling your data...`
     }, 1500)
 
 
